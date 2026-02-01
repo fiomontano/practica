@@ -1,0 +1,51 @@
+Fecha,Producto,Region,Ventas,Cliente
+"20250105, Laptop ,Norte, ""1200"" ,juan perez"
+20250106,Mouse, norte ,350, Maria Lopez
+"20250107,Teclado,Sur, ""450"",  Carlos  Diaz"
+20250108,Monitor, sur, 800 , Ana  Torres
+"20250109,  laptop, NORTE , ""1200"", juan perez"
+20250110,Mouse,Sur,350, Maria Lopez
+"20250111,Teclado, sur , ""500"" , "
+20250112,Monitor,Este,900,  Luis  Ramos
+"20250113,Mouse,este,""300"",maria lopez"
+"20250114, Laptop ,NORTE, ""1200"", Juan Perez"
+"20250301, Laptop ,Norte, ""1250"" ,juan perez"
+20250302,Mouse, norte ,355, Maria Lopez
+"20250303,Teclado,Sur, ""455"",  Carlos  Diaz"
+20250304,Monitor, sur, 810 , Ana  Torres
+"20250305,  laptop, NORTE , ""1250"", juan perez"
+20250306,Mouse,Sur,355, Maria Lopez
+"20250307,Teclado, sur , ""510"" , "
+20250308,Monitor,Este,910,  Luis  Ramos
+"20250309,Mouse,este,""305"",maria lopez"
+"20250310, Laptop ,NORTE, ""1250"", Juan Perez"
+"20250401, Laptop ,Norte, ""1400"" ,juan perez"
+20250402,Mouse, norte ,370, Maria Lopez
+"20250403,Teclado,Sur, ""480"",  Carlos  Diaz"
+20250404,Monitor, sur, 830 , Ana  Torres
+"20250405,  laptop, NORTE , ""1400"", juan perez"
+20250406,Mouse,Sur,370, Maria Lopez
+"20250407,Teclado, sur , ""530"" , "
+20250408,Monitor,Este,930,  Luis  Ramos
+"20250409,Mouse,este,""320"",maria lopez"
+"20250410, Laptop ,NORTE, ""1400"", Juan Perez"
+"20250501, Laptop ,Norte, ""1500"" ,juan perez"
+20250502,Mouse, norte ,380, Maria Lopez
+"20250503,Teclado,Sur, ""490"",  Carlos  Diaz"
+20250504,Monitor, sur, 840 , Ana  Torres
+"20250505,  laptop, NORTE , ""1500"", juan perez"
+20250506,Mouse,Sur,380, Maria Lopez
+"20250507,Teclado, sur , ""540"" , "
+20250508,Monitor,Este,940,  Luis  Ramos
+"20250509,Mouse,este,""330"",maria lopez"
+"20250510, Laptop ,NORTE, ""1500"", Juan Perez"
+"20250601, Laptop ,Norte, ""1600"" ,juan perez"
+20250602,Mouse, norte ,390, Maria Lopez
+"20250603,Teclado,Sur, ""500"",  Carlos  Diaz"
+20250604,Monitor, sur, 850 , Ana  Torres
+"20250605,  laptop, NORTE , ""1600"", juan perez"
+20250606,Mouse,Sur,390, Maria Lopez
+"20250607,Teclado, sur , ""550"" , "
+20250608,Monitor,Este,950,  Luis  Ramos
+"20250609,Mouse,este,""340"",maria lopez"
+"20250610, Laptop ,NORTE, ""1600"", Juan Perez"
